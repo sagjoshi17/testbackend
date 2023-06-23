@@ -1,0 +1,1 @@
+router.delete("/deletetestbyid/:id", deleteTestById);
